@@ -2,7 +2,8 @@
 
 Various projects made on OpenAI-gym.
 
-[![OpenaAI -gym](image openai "OpenaAI -gym")](https://gym.openai.com/assets/dist/home/header/home-icon-54c30e2345.svg")
+**OpenaAI -gym**
+<img src="https://gym.openai.com/assets/dist/home/header/home-icon-54c30e2345.svg" width="40" height = "40" title="OpenaAI -gym">
 
 - This repo is made for experimental learning of **Reinforcement learning** techniques.
 - Include cart pole balance problem using quantized states.
